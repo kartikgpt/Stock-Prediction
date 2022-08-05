@@ -10,3 +10,4 @@ To run locally,
 With the current directory as the folder, run
 
 streamlit run app.py
+'''
